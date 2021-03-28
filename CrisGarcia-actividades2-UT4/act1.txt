@@ -1,0 +1,14 @@
+
+En el diagrama de casos de uso del ejercicio uno vemos el diagrama de una plataforma de aprendizaje on-line:
+
+- El actor es el usuario que accede a dicha plataforma.
+- Cuando entra se visualizan 7 opciones(casos de uso) a las que puede entrar:
+		· Acceder (En acceder puede directamente iniciar sesión o registrarse, y como registrarse no es obigatorio cada
+		vez que accedes está puesto con un "Extend")
+		· Ver cursos en los que está matriculado
+		· Configurar el entorno
+		· Consultar los cursos en los que está matriculado (Esta opción en a mi parecer sobra por que ya está la de "Ver curso en los que está matriculado")
+		· Publicar en el foro
+		· Descargar material
+		· Entregar resultados (En este caso de uso el Usuario deberá subir los archivos e introducir el texto a la entrega)
+- Para consultar algunas opciones el Usuario deberá logearse o registrarse antes, a no ser que ya tenga la sesión iniciada.
